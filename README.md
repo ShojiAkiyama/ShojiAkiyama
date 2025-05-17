@@ -1,6 +1,7 @@
 Greetings, I'm Eduardo Akiyama!
 
 - Materials Engineer, Graduated at Universidade Estadual Paulista - UNESP
+- Postgraduate Student of Full Stack Development at Centro Universitário União das Américas Descomplica
 - Interested in software development, data science, machine learning and financial market
 
 Tools and Technology
